@@ -51,3 +51,9 @@ Choose the correct answer
 4) Square: 10x10
 
     Rectangle: 10x5
+
+
+
+
+
+The answer is 4.)
